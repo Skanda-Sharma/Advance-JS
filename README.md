@@ -1,2 +1,2 @@
 # Advance-JS
- Contains code execution and ledger for https://www.udemy.com/course/the-learn-javascript-course/
+ Contains code execution and ledger for [JavaScript Ultimate Guide](https://www.udemy.com/course/the-learn-javascript-course/)
